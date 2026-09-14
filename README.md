@@ -70,4 +70,4 @@ Pulled from the original brand brief, roughly in order:
 
 ## Credits
 
-Brand, logo, color system, and product direction by [you]. Built with Claude.
+Brand, logo, color system, and product direction by ekin. Built with Claude.
